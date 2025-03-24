@@ -2,7 +2,6 @@
 #   2024 Conductive Wool (E-Textile) _Studio Art Thesis Work
 
 #pip3 install matplotlib
-#https://www.youtube.com/watch?v=PhDPnjF3_tA
 
 import serial
 import matplotlib
